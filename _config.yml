@@ -45,8 +45,8 @@ discus_identifier: zld126126-github-io # Add your discus identifier
 comments_curtain: yes # leave empty to show the disqus embed directly
 
 # Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+#analytics: G-R8SZS2YBZK
+#fbadmin: ar.maybach
 
 # Paginate
 paginate: 6
