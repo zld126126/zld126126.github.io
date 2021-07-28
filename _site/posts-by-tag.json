@@ -1,0 +1,24 @@
+
+
+[   
+      
+  {
+  "tag" : "first blog",
+  "posts" : [
+      
+      "./welcome.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "life",
+  "posts" : [
+      
+      "./welcome.html"
+      
+    ]
+  } 
+    
+]
