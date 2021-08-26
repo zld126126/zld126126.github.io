@@ -1,6 +1,6 @@
 # Site settings
-title: dongbao `s blog
-description: 'dongbao `s blog' # this means to ignore newlines until "baseurl:"
+title: Landon `s blog
+description: 'Landon `s blog' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zld126126.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -24,7 +24,7 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: DongBao # add your name
+author: Landon # add your name
 author-pic: Myself_Neon_grey.jpg
 about-author: Programmer & Engineer
 
