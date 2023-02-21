@@ -1,23 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on zld126126</title>
-    <link>https://zld126126.github.io/posts/</link>
-    <description>Recent content in Posts on zld126126</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <managingEditor>zld126126@126.com (zld126126)</managingEditor>
-    <webMaster>zld126126@126.com (zld126126)</webMaster>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 20 Feb 2023 16:00:15 +0800</lastBuildDate><atom:link href="https://zld126126.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>毛不易-给你给我</title>
-      <link>https://zld126126.github.io/maobuyi-geinigeiwo/</link>
-      <pubDate>Mon, 20 Feb 2023 16:00:15 +0800</pubDate>
-      <author>zld126126@126.com (zld126126)</author>
-      <guid>https://zld126126.github.io/maobuyi-geinigeiwo/</guid>
-      <description>{ {&amp;lt; music url=&amp;quot;/music/maobuyi-geinigeiwo.mp3&amp;quot; name=给你给我 artist=internet cover=&amp;quot;/images/maobuyi.png&amp;quot; &amp;gt;} } 全部歌词: 给你我平平淡淡的等待和守候 给你我轰轰烈烈的渴望和温柔 给你我百转千回的喜乐和忧愁 给你我微不足道 所有</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - zld126126</title>
+        <link>https://zld126126.github.io/posts/</link>
+        <description>所有文章 | zld126126</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zld126126@126.com (zld126126)</managingEditor>
+            <webMaster>zld126126@126.com (zld126126)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Feb 2023 16:00:15 &#43;0800</lastBuildDate><atom:link href="https://zld126126.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>毛不易-给你给我</title>
+    <link>https://zld126126.github.io/maobuyi-geinigeiwo/</link>
+    <pubDate>Mon, 20 Feb 2023 16:00:15 &#43;0800</pubDate>
+    <author>zld126126</author>
+    <guid>https://zld126126.github.io/maobuyi-geinigeiwo/</guid>
+    <description><![CDATA[《给你给我》是毛不易演唱的歌曲，由毛不易作词、作曲，收录在其2018年发行的专辑《平凡的一天》中。 毛不易在《给你给我》的创作手记中写道：“总]]></description>
+</item>
+</channel>
 </rss>

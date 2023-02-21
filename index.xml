@@ -1,32 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>zld126126</title>
-    <link>https://zld126126.github.io/</link>
-    <description>Recent content on zld126126</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <managingEditor>zld126126@126.com (zld126126)</managingEditor>
-    <webMaster>zld126126@126.com (zld126126)</webMaster>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 20 Feb 2023 16:00:15 +0800</lastBuildDate><atom:link href="https://zld126126.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>毛不易-给你给我</title>
-      <link>https://zld126126.github.io/maobuyi-geinigeiwo/</link>
-      <pubDate>Mon, 20 Feb 2023 16:00:15 +0800</pubDate>
-      <author>zld126126@126.com (zld126126)</author>
-      <guid>https://zld126126.github.io/maobuyi-geinigeiwo/</guid>
-      <description>{ {&amp;lt; music url=&amp;quot;/music/maobuyi-geinigeiwo.mp3&amp;quot; name=给你给我 artist=internet cover=&amp;quot;/images/maobuyi.png&amp;quot; &amp;gt;} } 全部歌词: 给你我平平淡淡的等待和守候 给你我轰轰烈烈的渴望和温柔 给你我百转千回的喜乐和忧愁 给你我微不足道 所有</description>
-    </item>
-    
-    <item>
-      <title>关于 zld126126</title>
-      <link>https://zld126126.github.io/about/</link>
-      <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
-      <author>zld126126@126.com (zld126126)</author>
-      <guid>https://zld126126.github.io/about/</guid>
-      <description>♑I&amp;rsquo;m a programmer who is interested in java/go/js/c#&amp;hellip; 👉 Read more about my Blog ✉️ Ping me by Email 👦 My Gril: zld126126 💬 WeChat: landon126 ⚒ More social media: CSDN / 微博 🤝 More Emoji: Emoji</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>zld126126</title>
+        <link>https://zld126126.github.io/</link>
+        <description>zld126126 `s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zld126126@126.com (zld126126)</managingEditor>
+            <webMaster>zld126126@126.com (zld126126)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Feb 2023 16:00:15 &#43;0800</lastBuildDate>
+            <atom:link href="https://zld126126.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>毛不易-给你给我</title>
+    <link>https://zld126126.github.io/maobuyi-geinigeiwo/</link>
+    <pubDate>Mon, 20 Feb 2023 16:00:15 &#43;0800</pubDate>
+    <author>zld126126</author>
+    <guid>https://zld126126.github.io/maobuyi-geinigeiwo/</guid>
+    <description><![CDATA[《给你给我》是毛不易演唱的歌曲，由毛不易作词、作曲，收录在其2018年发行的专辑《平凡的一天》中。 毛不易在《给你给我》的创作手记中写道：“总]]></description>
+</item>
+</channel>
 </rss>

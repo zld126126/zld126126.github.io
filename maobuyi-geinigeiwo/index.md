@@ -1,9 +1,12 @@
 # 毛不易-给你给我
 
+《给你给我》是毛不易演唱的歌曲，由毛不易作词、作曲，收录在其2018年发行的专辑《平凡的一天》中。<br/>
+毛不易在《给你给我》的创作手记中写道：“总有一种感情，让你不求回报地想给予对方一切，让你对未来充满期待。它可能不够轰轰烈烈，也未必会天荒地老。但只要你未来某天想起它时，心里还会浮起一丝暖意，这便是它的全部意义。”<br/>
+
 <br/>
 <br/>
 
-{{< music url="/music/maobuyi-geinigeiwo.mp3" name=给你给我 artist=internet cover="/images/maobuyi.png" >}}
+{{</* music url="/music/maobuyi-geinigeiwo.mp3" name=给你给我 artist=平凡的一天 cover="/images/maobuyi.png" */>}}
 
 <br/>
 <br/>
