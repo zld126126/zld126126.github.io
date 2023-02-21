@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-{{<music url="/music/maobuyi-geinigeiwo.mp3" name=给你给我 artist=平凡的一天 cover="/images/maobuyi.png">}}
+{{<music url="/music/maobuyi-geinigeiwo.mp3" name="给你给我" artist="平凡的一天" cover="/images/maobuyi.png">}}
 
 <br/>
 <br/>
